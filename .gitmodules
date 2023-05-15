@@ -1,0 +1,9 @@
+[submodule "rutui"]
+	path = rutui
+	url = git@github.com:kicco73/rutui.git
+[submodule "udapi-java"]
+	path = udapi-java
+	url = git@github.com:kicco73/udapi-java.git
+[submodule "graphdb-docker"]
+	path = graphdb-docker
+	url = git@github.com:kicco73/graphdb-docker.git
