@@ -25,7 +25,7 @@ services:
       - 7300:7300
     volumes:
       - ./graphdb-docker/graphdb-data:/opt/graphdb/home
-  rut-backend:
+  backend:
     container_name: backend
     build:
       context: udapi-java
