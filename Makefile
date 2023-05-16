@@ -1,4 +1,4 @@
-container:
+app:
 	git submodule update --init --recursive
 	make -C udapi-java jar
 	make -C graphdb-docker build-preload
