@@ -1,0 +1,11 @@
+{
+	"KmcC-Comment": "This file is for VSCode to be able to correctly handle the Angular Project as a submodule",
+	"compilerOptions": {
+		"baseUrl": "./",
+		"paths": {
+			"submodule/*": [
+				"rutui/src/*"
+			]
+		}
+	}
+}
